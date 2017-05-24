@@ -1,0 +1,18 @@
+* {
+  text-align: center;
+}
+
+.name {
+  margin-top: 25%;
+  font-family: -apple-system-font, HelveticaNeue, Helvetica, sans-serif;
+  font-family: HelveticaNeue;
+  font-weight: normal;
+  font-size: 1.75em;
+  color: #3a3a3a;
+  -webkit-text-size-adjust: none;
+}
+
+.name, .social {
+  -webkit-animation: alpha0 1.05s, slideAndFadeIn .35s 1.05s;
+  animation: alpha0 1.05s, slideAndFadeIn .35s 1.05s;
+}
