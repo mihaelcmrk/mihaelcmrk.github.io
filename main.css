@@ -1,10 +1,23 @@
-* {
+.name {
+  height:90%;
+  width:100%;
+  display: flex;
+  position: fixed;
   align-items: center;
-  text-align: center;
+  justify-content: center;
+}
+
+.social {
+  margin-top: 3.5em;
+  height:90%;
+  width:100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
 }
 
 .name {
-  margin-top: 13em;
   font-family: -apple-system-font, HelveticaNeue, Helvetica, sans-serif;
   font-family: HelveticaNeue;
   font-weight: normal;
