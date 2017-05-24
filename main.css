@@ -1,9 +1,10 @@
 * {
+  align-items: center;
   text-align: center;
 }
 
 .name {
-  margin-top: 300px;
+  margin-top: 13em;
   font-family: -apple-system-font, HelveticaNeue, Helvetica, sans-serif;
   font-family: HelveticaNeue;
   font-weight: normal;
